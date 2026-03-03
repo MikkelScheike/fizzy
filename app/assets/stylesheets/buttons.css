@@ -128,7 +128,7 @@
   }
 
   @media (min-width: 640px) {
-    .btn--circle-mobile .icon--mobile-only {
+    .btn .icon--mobile-only {
       display: none !important;
     }
   }
